@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 import time
 
-bot = telebot.TeleBot('8125147433:AAG5UmSLaSUl23DicIcMeEd7sq2wNT-Zp_E')
+bot = telebot.TeleBot('')
 
 IMAGE_DIR = './images/img_games/'
 
